@@ -1,6 +1,2 @@
-this is the url in render https://filesystem-nodejs.onrender.com,
+this is the url in render https://nodejs-filesystem-0ssr.onrender.com
 
-to create file "https://filesystem-nodejs.onrender.com/createfile/:foldername"
-then you will get  file name in the response 
-
-to read file  "https://filesystem-nodejs.onrender.com/readefile/:foldername?filename={filename}"
